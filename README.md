@@ -1,2 +1,3 @@
 # No-Video-Audio
-Removes audio from video file
+Matthew Mulholland
+Removes audio from video file. That's it.
