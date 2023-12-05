@@ -1,3 +1,4 @@
 # No-Video-Audio
-Matthew Mulholland
-Removes audio from video file. That's it.
+Matthew Mulholland \n
+Removes audio from video file. That's it. \n
+Libraries used: ImGui
